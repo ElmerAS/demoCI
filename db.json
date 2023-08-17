@@ -2,52 +2,62 @@
 	"phrases": [{
 			"id": 1,
 			"phrase": "Los ganadores no tienen miedo de perder. Los perdedores sí. El fracaso forma parte del proceso de éxito. La gente que evita el fracaso también evita el éxito.",
-			"author": "Kiyosaki"
+			"author": "Kiyosaki",
+			"fullName": "Robert Kiyosaki"
 		},
 		{
 			"id": 2,
 			"phrase": "La palabra más destructiva de todas es la palabra mañana.",
-			"author": "Kiyosaki"
+			"author": "Kiyosaki",
+			"fullName": "Robert Kiyosaki"
 		},
 		{
 			"id": 3,
 			"phrase": "Deja de hacer hoy lo que no quieres terminar haciendo toda tu vida.",
-			"author": "Kiyosaki"
+			"author": "Kiyosaki",
+			"fullName": "Robert Kiyosaki"
 		},
 		{
 			"id": 4,
 			"phrase": "Los ganadores no tienen miedo de perder. Pero los perdedores, sí. El fracaso es parte del proceso del éxito. La gente que evita el fracaso también evita el éxito.",
-			"author": "Kiyosaki"
+			"author": "Kiyosaki",
+			"fullName": "Robert Kiyosaki"
 		},
 		{
 			"id": 5,
 			"phrase": "La emoción de ganar deber ser mayor al miedo de perder.",
-			"author": "Kiyosaki"
+			"author": "Kiyosaki",
+			"fullName": "Robert Kiyosaki"
 		},
 		{
 			"id": 6,
 			"phrase": "Deja de pensar en la vida y resuélvete a vivirla.",
-			"author": "Coelho"
+			"author": "Coelho",
+			"fullName": "Paulo Coelho"
 		},
 		{
 			"id": 7,
 			"phrase": "Hay momentos en que las tribulaciones se presentan en nuestras vidas y no podemos evitarlas. Pero están allí por algún motivo. Sólo cuando ya las hemos superado entenderemos por qué estaban allí.",
-			"author": "Coelho"
+			"author": "Coelho",
+			"fullName": "Paulo Coelho"
 		},
 		{
 			"id": 8,
 			"phrase": "Las tristezas no se quedan para siempre cuando caminamos en dirección a lo que siempre deseamos.",
-			"author": "Coelho"
+			"author": "Coelho",
+			"fullName": "Paulo Coelho"
 		},
 		{
 			"id": 9,
 			"phrase": "Cuántas cosas perdemos por miedo a perder.",
-			"author": "Coelho"
+			"author": "Coelho",
+			"fullName": "Paulo Coelho"
 		},
 		{
 			"id": 10,
 			"phrase": "Esperar duele. Olvidar duele. Pero el peor de los sufrimientos es no saber qué decisión tomar.",
-			"author": "Coelho"
+			"author": "Coelho",
+			"fullName": "Paulo Coelho"
 		}
 	]
 }
