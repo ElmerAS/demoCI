@@ -59,5 +59,704 @@
 			"author": "Coelho",
 			"fullName": "Paulo Coelho"
 		}
-	]
+	],
+	"fixture": {
+   "get":"fixtures",
+   "parameters":{
+      "league":"281",
+      "season":"2023",
+      "last":"10"
+   },
+   "errors":[
+      
+   ],
+   "results":10,
+   "paging":{
+      "current":1,
+      "total":1
+   },
+   "response":[
+      {
+         "fixture":{
+            "id":1121897,
+            "referee":"R. P\u00e9rez",
+            "timezone":"UTC",
+            "date":"2023-09-11T00:00:00+00:00",
+            "timestamp":1694390400,
+            "periods":{
+               "first":1694390400,
+               "second":1694394000
+            },
+            "venue":{
+               "id":1242,
+               "name":"Estadio Monumental",
+               "city":"Lima"
+            },
+            "status":{
+               "long":"Match Finished",
+               "short":"FT",
+               "elapsed":90
+            }
+         },
+         "league":{
+            "id":281,
+            "name":"Primera Divisi\u00f3n",
+            "country":"Peru",
+            "logo":"https:\/\/media-4.api-sports.io\/football\/leagues\/281.png",
+            "flag":"https:\/\/media-4.api-sports.io\/flags\/pe.svg",
+            "season":2023,
+            "round":"Clausura - 12"
+         },
+         "teams":{
+            "home":{
+               "id":2540,
+               "name":"Universitario",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2540.png",
+               "winner":true
+            },
+            "away":{
+               "id":2545,
+               "name":"Deportivo Municipal",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2545.png",
+               "winner":false
+            }
+         },
+         "goals":{
+            "home":1,
+            "away":0
+         },
+         "score":{
+            "halftime":{
+               "home":0,
+               "away":0
+            },
+            "fulltime":{
+               "home":1,
+               "away":0
+            },
+            "extratime":{
+               "home":null,
+               "away":null
+            },
+            "penalty":{
+               "home":null,
+               "away":null
+            }
+         }
+      },
+      {
+         "fixture":{
+            "id":1121896,
+            "referee":"J. Alarc\u00f3n",
+            "timezone":"UTC",
+            "date":"2023-09-10T20:00:00+00:00",
+            "timestamp":1694376000,
+            "periods":{
+               "first":1694376000,
+               "second":1694379600
+            },
+            "venue":{
+               "id":1238,
+               "name":"Estadio Miguel Grau del Callao",
+               "city":"Callao"
+            },
+            "status":{
+               "long":"Match Finished",
+               "short":"FT",
+               "elapsed":90
+            }
+         },
+         "league":{
+            "id":281,
+            "name":"Primera Divisi\u00f3n",
+            "country":"Peru",
+            "logo":"https:\/\/media-4.api-sports.io\/football\/leagues\/281.png",
+            "flag":"https:\/\/media-4.api-sports.io\/flags\/pe.svg",
+            "season":2023,
+            "round":"Clausura - 12"
+         },
+         "teams":{
+            "home":{
+               "id":2544,
+               "name":"Sport Boys",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2544.png",
+               "winner":null
+            },
+            "away":{
+               "id":2546,
+               "name":"Sporting Cristal",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2546.png",
+               "winner":null
+            }
+         },
+         "goals":{
+            "home":1,
+            "away":1
+         },
+         "score":{
+            "halftime":{
+               "home":1,
+               "away":0
+            },
+            "fulltime":{
+               "home":1,
+               "away":1
+            },
+            "extratime":{
+               "home":null,
+               "away":null
+            },
+            "penalty":{
+               "home":null,
+               "away":null
+            }
+         }
+      },
+      {
+         "fixture":{
+            "id":1121895,
+            "referee":"D. Haro",
+            "timezone":"UTC",
+            "date":"2023-09-10T00:00:00+00:00",
+            "timestamp":1694304000,
+            "periods":{
+               "first":1694304000,
+               "second":1694307600
+            },
+            "venue":{
+               "id":1233,
+               "name":"Estadio Inca Garcilaso de la Vega",
+               "city":"Cusco"
+            },
+            "status":{
+               "long":"Match Finished",
+               "short":"FT",
+               "elapsed":90
+            }
+         },
+         "league":{
+            "id":281,
+            "name":"Primera Divisi\u00f3n",
+            "country":"Peru",
+            "logo":"https:\/\/media-4.api-sports.io\/football\/leagues\/281.png",
+            "flag":"https:\/\/media-4.api-sports.io\/flags\/pe.svg",
+            "season":2023,
+            "round":"Clausura - 12"
+         },
+         "teams":{
+            "home":{
+               "id":2562,
+               "name":"Cienciano",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2562.png",
+               "winner":false
+            },
+            "away":{
+               "id":2554,
+               "name":"FBC Melgar",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2554.png",
+               "winner":true
+            }
+         },
+         "goals":{
+            "home":0,
+            "away":1
+         },
+         "score":{
+            "halftime":{
+               "home":0,
+               "away":0
+            },
+            "fulltime":{
+               "home":0,
+               "away":1
+            },
+            "extratime":{
+               "home":null,
+               "away":null
+            },
+            "penalty":{
+               "home":null,
+               "away":null
+            }
+         }
+      },
+      {
+         "fixture":{
+            "id":1121894,
+            "referee":"J. Cartagena",
+            "timezone":"UTC",
+            "date":"2023-09-09T20:00:00+00:00",
+            "timestamp":1694289600,
+            "periods":{
+               "first":1694289600,
+               "second":1694293200
+            },
+            "venue":{
+               "id":null,
+               "name":"Estadio Municipal Iv\u00e1n El\u00edas Moreno",
+               "city":"Lima"
+            },
+            "status":{
+               "long":"Match Finished",
+               "short":"FT",
+               "elapsed":90
+            }
+         },
+         "league":{
+            "id":281,
+            "name":"Primera Divisi\u00f3n",
+            "country":"Peru",
+            "logo":"https:\/\/media-4.api-sports.io\/football\/leagues\/281.png",
+            "flag":"https:\/\/media-4.api-sports.io\/flags\/pe.svg",
+            "season":2023,
+            "round":"Clausura - 12"
+         },
+         "teams":{
+            "home":{
+               "id":2543,
+               "name":"Academia Cantolao",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2543.png",
+               "winner":false
+            },
+            "away":{
+               "id":2553,
+               "name":"Alianza Lima",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2553.png",
+               "winner":true
+            }
+         },
+         "goals":{
+            "home":0,
+            "away":2
+         },
+         "score":{
+            "halftime":{
+               "home":0,
+               "away":1
+            },
+            "fulltime":{
+               "home":0,
+               "away":2
+            },
+            "extratime":{
+               "home":null,
+               "away":null
+            },
+            "penalty":{
+               "home":null,
+               "away":null
+            }
+         }
+      },
+      {
+         "fixture":{
+            "id":1121893,
+            "referee":"M. Espinoza",
+            "timezone":"UTC",
+            "date":"2023-09-04T20:15:00+00:00",
+            "timestamp":1693858500,
+            "periods":{
+               "first":1693858500,
+               "second":1693862100
+            },
+            "venue":{
+               "id":1232,
+               "name":"Estadio Mansiche",
+               "city":"Trujillo"
+            },
+            "status":{
+               "long":"Match Finished",
+               "short":"FT",
+               "elapsed":90
+            }
+         },
+         "league":{
+            "id":281,
+            "name":"Primera Divisi\u00f3n",
+            "country":"Peru",
+            "logo":"https:\/\/media-4.api-sports.io\/football\/leagues\/281.png",
+            "flag":"https:\/\/media-4.api-sports.io\/flags\/pe.svg",
+            "season":2023,
+            "round":"Clausura - 12"
+         },
+         "teams":{
+            "home":{
+               "id":2541,
+               "name":"Cesar Vallejo",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2541.png",
+               "winner":true
+            },
+            "away":{
+               "id":2564,
+               "name":"Atletico Grau",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2564.png",
+               "winner":false
+            }
+         },
+         "goals":{
+            "home":5,
+            "away":0
+         },
+         "score":{
+            "halftime":{
+               "home":1,
+               "away":0
+            },
+            "fulltime":{
+               "home":5,
+               "away":0
+            },
+            "extratime":{
+               "home":null,
+               "away":null
+            },
+            "penalty":{
+               "home":null,
+               "away":null
+            }
+         }
+      },
+      {
+         "fixture":{
+            "id":1121892,
+            "referee":"D. Haro",
+            "timezone":"UTC",
+            "date":"2023-09-03T20:15:00+00:00",
+            "timestamp":1693772100,
+            "periods":{
+               "first":1693772100,
+               "second":1693775700
+            },
+            "venue":{
+               "id":1243,
+               "name":"Estadio H\u00e9roes de San Ram\u00f3n",
+               "city":"Cajamarca"
+            },
+            "status":{
+               "long":"Match Finished",
+               "short":"FT",
+               "elapsed":90
+            }
+         },
+         "league":{
+            "id":281,
+            "name":"Primera Divisi\u00f3n",
+            "country":"Peru",
+            "logo":"https:\/\/media-4.api-sports.io\/football\/leagues\/281.png",
+            "flag":"https:\/\/media-4.api-sports.io\/flags\/pe.svg",
+            "season":2023,
+            "round":"Clausura - 12"
+         },
+         "teams":{
+            "home":{
+               "id":2539,
+               "name":"UTC",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2539.png",
+               "winner":null
+            },
+            "away":{
+               "id":20960,
+               "name":"Deportivo Garcilaso",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/20960.png",
+               "winner":null
+            }
+         },
+         "goals":{
+            "home":0,
+            "away":0
+         },
+         "score":{
+            "halftime":{
+               "home":0,
+               "away":0
+            },
+            "fulltime":{
+               "home":0,
+               "away":0
+            },
+            "extratime":{
+               "home":null,
+               "away":null
+            },
+            "penalty":{
+               "home":null,
+               "away":null
+            }
+         }
+      },
+      {
+         "fixture":{
+            "id":1121891,
+            "referee":"J. Alarc\u00f3n",
+            "timezone":"UTC",
+            "date":"2023-09-03T18:00:00+00:00",
+            "timestamp":1693764000,
+            "periods":{
+               "first":1693764000,
+               "second":1693767600
+            },
+            "venue":{
+               "id":1239,
+               "name":"Estadio Huancayo",
+               "city":"Huancayo"
+            },
+            "status":{
+               "long":"Match Finished",
+               "short":"FT",
+               "elapsed":90
+            }
+         },
+         "league":{
+            "id":281,
+            "name":"Primera Divisi\u00f3n",
+            "country":"Peru",
+            "logo":"https:\/\/media-4.api-sports.io\/football\/leagues\/281.png",
+            "flag":"https:\/\/media-4.api-sports.io\/flags\/pe.svg",
+            "season":2023,
+            "round":"Clausura - 12"
+         },
+         "teams":{
+            "home":{
+               "id":2555,
+               "name":"Sport Huancayo",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2555.png",
+               "winner":true
+            },
+            "away":{
+               "id":2550,
+               "name":"Deportivo Binacional",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2550.png",
+               "winner":false
+            }
+         },
+         "goals":{
+            "home":3,
+            "away":1
+         },
+         "score":{
+            "halftime":{
+               "home":0,
+               "away":1
+            },
+            "fulltime":{
+               "home":3,
+               "away":1
+            },
+            "extratime":{
+               "home":null,
+               "away":null
+            },
+            "penalty":{
+               "home":null,
+               "away":null
+            }
+         }
+      },
+      {
+         "fixture":{
+            "id":1121890,
+            "referee":"K. Ortega",
+            "timezone":"UTC",
+            "date":"2023-09-02T20:15:00+00:00",
+            "timestamp":1693685700,
+            "periods":{
+               "first":1693685700,
+               "second":1693689300
+            },
+            "venue":{
+               "id":1233,
+               "name":"Estadio Inca Garcilaso de la Vega",
+               "city":"Cusco"
+            },
+            "status":{
+               "long":"Match Finished",
+               "short":"FT",
+               "elapsed":90
+            }
+         },
+         "league":{
+            "id":281,
+            "name":"Primera Divisi\u00f3n",
+            "country":"Peru",
+            "logo":"https:\/\/media-4.api-sports.io\/football\/leagues\/281.png",
+            "flag":"https:\/\/media-4.api-sports.io\/flags\/pe.svg",
+            "season":2023,
+            "round":"Clausura - 12"
+         },
+         "teams":{
+            "home":{
+               "id":10013,
+               "name":"Cusco",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/10013.png",
+               "winner":true
+            },
+            "away":{
+               "id":10492,
+               "name":"ADT",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/10492.png",
+               "winner":false
+            }
+         },
+         "goals":{
+            "home":1,
+            "away":0
+         },
+         "score":{
+            "halftime":{
+               "home":1,
+               "away":0
+            },
+            "fulltime":{
+               "home":1,
+               "away":0
+            },
+            "extratime":{
+               "home":null,
+               "away":null
+            },
+            "penalty":{
+               "home":null,
+               "away":null
+            }
+         }
+      },
+      {
+         "fixture":{
+            "id":1121889,
+            "referee":"A. Villanueva",
+            "timezone":"UTC",
+            "date":"2023-09-02T18:00:00+00:00",
+            "timestamp":1693677600,
+            "periods":{
+               "first":1693677600,
+               "second":1693681200
+            },
+            "venue":{
+               "id":1920,
+               "name":"Estadio Campeones del '36",
+               "city":"Sullana"
+            },
+            "status":{
+               "long":"Match Finished",
+               "short":"FT",
+               "elapsed":90
+            }
+         },
+         "league":{
+            "id":281,
+            "name":"Primera Divisi\u00f3n",
+            "country":"Peru",
+            "logo":"https:\/\/media-4.api-sports.io\/football\/leagues\/281.png",
+            "flag":"https:\/\/media-4.api-sports.io\/flags\/pe.svg",
+            "season":2023,
+            "round":"Clausura - 12"
+         },
+         "teams":{
+            "home":{
+               "id":2560,
+               "name":"Alianza Atletico",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2560.png",
+               "winner":null
+            },
+            "away":{
+               "id":2551,
+               "name":"Carlos A. Mannucci",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2551.png",
+               "winner":null
+            }
+         },
+         "goals":{
+            "home":1,
+            "away":1
+         },
+         "score":{
+            "halftime":{
+               "home":0,
+               "away":1
+            },
+            "fulltime":{
+               "home":1,
+               "away":1
+            },
+            "extratime":{
+               "home":null,
+               "away":null
+            },
+            "penalty":{
+               "home":null,
+               "away":null
+            }
+         }
+      },
+      {
+         "fixture":{
+            "id":1116456,
+            "referee":"R. P\u00e9rez",
+            "timezone":"UTC",
+            "date":"2023-08-28T20:15:00+00:00",
+            "timestamp":1693253700,
+            "periods":{
+               "first":1693253700,
+               "second":1693257300
+            },
+            "venue":{
+               "id":1233,
+               "name":"Estadio Inca Garcilaso de la Vega",
+               "city":"Cusco"
+            },
+            "status":{
+               "long":"Match Finished",
+               "short":"FT",
+               "elapsed":90
+            }
+         },
+         "league":{
+            "id":281,
+            "name":"Primera Divisi\u00f3n",
+            "country":"Peru",
+            "logo":"https:\/\/media-4.api-sports.io\/football\/leagues\/281.png",
+            "flag":"https:\/\/media-4.api-sports.io\/flags\/pe.svg",
+            "season":2023,
+            "round":"Clausura - 11"
+         },
+         "teams":{
+            "home":{
+               "id":20960,
+               "name":"Deportivo Garcilaso",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/20960.png",
+               "winner":true
+            },
+            "away":{
+               "id":2541,
+               "name":"Cesar Vallejo",
+               "logo":"https:\/\/media-4.api-sports.io\/football\/teams\/2541.png",
+               "winner":false
+            }
+         },
+         "goals":{
+            "home":1,
+            "away":0
+         },
+         "score":{
+            "halftime":{
+               "home":1,
+               "away":0
+            },
+            "fulltime":{
+               "home":1,
+               "away":0
+            },
+            "extratime":{
+               "home":null,
+               "away":null
+            },
+            "penalty":{
+               "home":null,
+               "away":null
+            }
+         }
+      }
+   ]
+},
+	"partido":{}
 }
